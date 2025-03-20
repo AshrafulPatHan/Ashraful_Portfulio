@@ -21,7 +21,7 @@ const Hero = () => {
                         </p>
                     </div>
                     <div>
-                        <a href="https://drive.google.com/file/d/1ZmVD2Wzge20D6ayVu_CJrMVImfRHzV7H/view" 
+                        <a href="https://drive.google.com/file/d/1hXyBnOTlmRnkEog0kuqLD24sGSryuJxo/view" 
                         target="_blank" 
                         rel="noopener noreferrer" 
                         className="btn btn-outline text-lg mt-4 btn-secondary w-44">
