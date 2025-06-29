@@ -6,7 +6,7 @@ import { FaEyeLowVision } from 'react-icons/fa6';
 import { toast } from 'react-toastify';
 import { Link, useNavigate } from 'react-router';
 import { DotLottieReact } from '@lottiefiles/dotlottie-react';
-import auth from '../Firebase/Firebase.init';
+import auth from '../firebase/firebase.init';
 import { createUserWithEmailAndPassword, updateProfile } from 'firebase/auth';
 
 

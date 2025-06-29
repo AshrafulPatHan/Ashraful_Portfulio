@@ -11,7 +11,6 @@ import Registration from './Component/Registration';
 
 function App() {
 
-
   return (
     <>
       <AuthProvider>
